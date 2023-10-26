@@ -30,11 +30,11 @@ Install the required libraries using pip:
 ### Algorithms
 This project incorporates a diverse range of machine learning algorithms, each with its unique approach to the loan approval prediction task. The algorithms used include:
 
-Logistic Regression: A fundamental classification algorithm.
-K-Nearest Neighbors (KNN): A simple but powerful instance-based learning algorithm.
-Random Forest: An ensemble method that combines multiple decision trees.
-Decision Tree: A tree-based model used for classification and regression tasks.
-Neural Network (MLP): A deep learning model capable of handling complex patterns and relationships.
+- Logistic Regression: A fundamental classification algorithm.
+- K-Nearest Neighbors (KNN): A simple but powerful instance-based learning algorithm.
+- Random Forest: An ensemble method that combines multiple decision trees.
+- Decision Tree: A tree-based model used for classification and regression tasks.
+- Neural Network (MLP): A deep learning model capable of handling complex patterns and relationships.
 
 ### Results
 Each algorithm's performance is evaluated using various metrics, such as accuracy, precision, recall, and F1-score. You can find the detailed results in the notebook.
